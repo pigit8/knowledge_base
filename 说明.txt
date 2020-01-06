@@ -1,0 +1,4 @@
+1.文档编辑：google在线文档
+2.思维导图工具：MindMaster软件
+3.文档管理：git
+4.文档管理：github
